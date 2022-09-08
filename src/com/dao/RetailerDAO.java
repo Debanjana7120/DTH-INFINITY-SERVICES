@@ -5,7 +5,7 @@ import java.util.*;
 
 import com.bean.Retailer;
 
-public class RetailerDAO {
+public class RetailerDAO { 
 	
 
 	
